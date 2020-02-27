@@ -11,12 +11,15 @@ keywords: keyword1, keyword2
 关于JavaScript中原型相关的属性：
 1. \_\_proto\_\_  
 2. [[Prototype]] 
+    
+    遵循ECMAScript标准，someObject.[[Prototype]] 符号是用于指向 someObject 的原型。从 ECMAScript 6 开始，[[Prototype]] 可以通过 Object.getPrototypeOf() 和 Object.setPrototypeOf() 访问器来访问。这个等同于 JavaScript 的非标准但许多浏览器实现的属性 __proto__。
+
 3. Object.getPrototypeOf() 
 4. prototype
    
     在方法中，默认还有prototype属性，可以结合new关键字使用。
 
-5. 
+
 
 ### 继承属性
 在JavaScript中，对象是一个属性的集合，当我们试图访问一个对象的属性时，它不仅会在对象本身上搜索，还会搜索该对象的原型，直至搜索到该属性或者原型末端为止。
