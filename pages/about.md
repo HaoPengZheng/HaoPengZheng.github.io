@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 乱花渐欲迷人眼，浅草才能没马蹄
+keywords: HaoPeng Zheng, 郑浩鹏
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是郑浩鹏。
 
-仰慕「优雅编码的艺术」。
+喜欢运动，
+
+喜欢听歌。
 
 坚信熟能生巧，努力改变人生。
 
