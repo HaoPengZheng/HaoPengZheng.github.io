@@ -3,7 +3,7 @@ layout: post
 title: 继承与原型链
 categories: [JavaScript, prototype]
 description: 面向对象是软件开发的一个重要思想，在基于类的语言中，继承是十分浅显易懂的。本文将总结JavaScript中的一些原型链知识，并探讨如何基于原型实现继承。
-keywords: keyword1, keyword2
+keywords: prototype
 ---
 
 ## 继承
