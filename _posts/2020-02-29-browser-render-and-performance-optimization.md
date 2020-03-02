@@ -18,11 +18,9 @@ keywords: DOM Tree, Render Tree, repaint, reflow
 9. 将布局绘制（paint）在屏幕上
     
 <br>
-<center>
 
 ![浏览器渲染大致过程](/images/posts/html/render-process.png)
 
-</center>
 
 > 其中比较耗时的是生成布局和布局绘制最后两步。"生成布局"（flow）和"绘制"（paint）这两步，合称为"渲染"（render）。
 
